@@ -15,8 +15,8 @@
  */
 package com.example.android.favoritetoys;
 
-import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import linux.os.Bundle;
+import linux.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
